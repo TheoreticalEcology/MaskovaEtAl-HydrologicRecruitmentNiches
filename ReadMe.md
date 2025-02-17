@@ -1,4 +1,4 @@
-## Data for Markova et al., Hydrologic recruitment niches of wetland plants are associated with dormancy, alternating temperature, and oxygen requirements
+## Data for Maskova et al., Hydrologic recruitment niches of wetland plants are associated with dormancy, alternating temperature, and oxygen requirements
 
 Original germination data are in table "data.csv". Each row in this datatable represents one pot in germination experiment. Column A represent from which waterbody the sediment was collected, column B represent the hydrological treatment during the germination experiment, columns C - DD represents the number of seedlings per respective plant species which germinated during the experiment. 
 
