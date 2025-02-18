@@ -15,8 +15,8 @@ library(patchwork)
 
 #=================================================================================================
 # import table with germination data and table with trait data
-data <- read.table("data1.csv", header=T, sep=",")
-traity <- read.table("traity.csv", header=T, sep=",")
+data <- read.table("data.csv", header=T, sep=",")
+traity <- read.table("traits.csv", header=T, sep=",")
 
 # add data about dormancy, oxygen requirements and alternating temperature requirement to the table with germination data
 dorm <- NULL
